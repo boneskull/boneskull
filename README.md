@@ -16,4 +16,4 @@
 - Now I'm somebody's dad
 - I live in a bedroom community
 - Cannot stop putting two spaces after a period
-- Weirdo & curmudgeon
+- Sicko & curmudgeon
