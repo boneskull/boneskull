@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome to Me
 
-<!--
-**boneskull/boneskull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The gist of it:
 
-Here are some ideas to get you started:
+- I like to collaborate on OSS projects
+- I like Node.js and JavaScript
+- I used to be a hipster
+- Now I'm somebody's dad
+- I live in a bedroom community
+- Cannot stop putting two spaces after a period
+- Weirdo & curmudgeon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current status:
+
+- Hacking on [hardened JavaScript](https://hardenedjs.org): [LavaMoat](/LavaMoat/LavaMoat) & [Endo](/endojs/endo)
+- A self-indulgent rewrite of [midnight-smoker](/boneskull/midnight-smoker) which essentially lints package tarballs. This questionable effort has spawned some tools:
+  - [xstate-audition](/boneskull/xstate-audition), a test helper for [XState](/statelyai/xstate)
+  - [impvol](/boneskull/impvol), a thing that lets you `import()` modules in Node.js from [memfs](streamich/memfs)' virtual filesystems
+- I sometimes grace [JS Party](https://jsparty.fm) with my casual elegance and unbridled optimism
