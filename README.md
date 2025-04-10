@@ -6,7 +6,7 @@
 - A self-indulgent rewrite of [midnight-smoker](/boneskull/midnight-smoker) which essentially lints package tarballs. This questionable effort has spawned some tools:
   - [xstate-audition](/boneskull/xstate-audition), a test helper for [XState](/statelyai/xstate)
   - [impvol](/boneskull/impvol), a thing that lets you `import()` modules in Node.js from [memfs](streamich/memfs)' virtual filesystems
-- I sometimes grace [JS Party](https://jsparty.fm) with my casual elegance and unbridled optimism
+- A nascent podcast, [The Dysfunctional Developer](https://dysfunctional.fm)
 
 ### My Idealized Online Self
 
@@ -15,5 +15,15 @@
 - I used to be a hipster
 - Now I'm somebody's dad
 - I live in a bedroom community
+- Meatballs (the food)
 - Cannot stop putting two spaces after a period
-- Sicko & curmudgeon
+- Hobby electronics
+- AFOL
+- Sicko & monotonous curmudgeon
+
+### Relevant History
+
+- [Node.js](https://nodejs.org) core contributor
+- [Mocha](https://mochajs.org) maintainer
+- [Appium](https://appium.io) core team
+- JS Party, a podcast
