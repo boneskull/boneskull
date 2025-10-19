@@ -3,9 +3,7 @@
 ### Current Status
 
 - Hacking on [hardened JavaScript](https://hardenedjs.org): [LavaMoat](/LavaMoat/LavaMoat) & [Endo](/endojs/endo)
-- A self-indulgent rewrite of [midnight-smoker](/boneskull/midnight-smoker) which essentially lints package tarballs. This questionable effort has spawned some tools:
-  - [xstate-audition](/boneskull/xstate-audition), a test helper for [XState](/statelyai/xstate)
-  - [impvol](/boneskull/impvol), a thing that lets you `import()` modules in Node.js from [memfs](streamich/memfs)' virtual filesystems
+- Making [BUPKIS](https://bupkis.zip) the most hardest-hittingess assertion library in the league
 - A nascent podcast, [The Dysfunctional Developer](https://dysfunctional.fm)
 
 ### My Idealized Online Self
