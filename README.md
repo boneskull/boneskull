@@ -4,6 +4,7 @@
 
 - Hacking on [hardened JavaScript](https://hardenedjs.org): [LavaMoat](/LavaMoat/LavaMoat) & [Endo](/endojs/endo)
 - Making [BUPKIS](https://bupkis.zip) the most hardest-hittingess assertion library in the league
+- Building [modestbench](https://boneskull.github.io/modestbench), a full-ass benchmarking framework
 - A nascent podcast, [The Dysfunctional Developer](https://dysfunctional.fm)
 
 ### My Idealized Online Self
